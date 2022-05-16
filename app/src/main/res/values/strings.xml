@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">PruebaDev</string>
+    <string name="title_home">Peliculas</string>
+    <string name="title_dashboard">Mapa</string>
+    <string name="title_notifications">Fotos</string>
+
+
+
+    <string name="channel_name">location_notify</string>
+    <string name="channel_description">location detail</string>
+
+
+    <string name="label_greetings_name">The Movie Database (TMDB)</string>
+    <string name="label_greetings_">,buenos dias!</string>
+    <string name="label_search_movie">Busca una pelicula</string>
+    <string name="placeholder_title">{{title}}</string>
+    <string name="placeholder_street_name">{{street name}}</string>
+    <string name="placeholder_suburb">{{suburb}}</string>
+    <string name="placeholder_movies_playing">Peliculas en cartelera</string>
+    <string name="label_navigate">Navegar</string>
+    <string name="label_visit">Realizas visita</string>
+    <string name="label_visited">Visitado</string>
+    <string name="label_no_visited">Pendiente</string>
+    <string name="label_no_internet_message">¡Haga click para reintentar!</string>
+    <string name="label_no_internet">No se pudo establecer conexión con internet</string>
+    <string name="rationale_location">This app needs access to your location to know where you are.</string>
+
+    <string name="cancel">Cancelar</string>
+    <string name="yes">Si</string>
+
+    <string name="background_permission_title">Permiso ubicacion de fondo</string>
+    <string name="background_permission">LA app necesita la ubicacion, deseas permitir acceso a la ubicacion</string>
+
+</resources>
